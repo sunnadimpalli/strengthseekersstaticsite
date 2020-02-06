@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Sundar Nadimpalli'
-SITENAME = 'Strength Seekers - Celebrating Human Potential'
+SITENAME = 'Strength Seekers'
 SITEURL = ''
 
 PATH = 'content'
@@ -20,16 +20,23 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'http://getpelican.com/'),
-         ('Python.org', 'http://python.org/'),
-         ('Jinja2', 'http://jinja.pocoo.org/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (("Author's Website", 'http://www.sundarnadimpalli.com/'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('Twitter', 'https://twitter.com/SunNadimpalli'),
+          ('LinkedIn', 'https://www.linkedin.com/in/sundarnadimpalli/'),)
 
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+
+THEME = 'pelican-themes/pelican-bootstrap3'
+BOOTSTRAP_THEME = 'Darkly'
+PYGMENTS_STYLE = 'colorful'
+
+PLUGIN_PATHS = ['pelican-plugins']
+JINJA_ENVIRONMENT = {'extensions':['jinja2.ext.i18n']}
+PLUGINS = ['i18n_subsites']
+I18N_TEMPLATES_LANG = 'en'
