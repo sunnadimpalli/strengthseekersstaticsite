@@ -1,6 +1,6 @@
 title: The Path of Least Resistance
 slug: the-path-of-least-resistance
-category: posts
+category: Blog
 date: 2020-02-02
 modified: 2020-02-02
 
