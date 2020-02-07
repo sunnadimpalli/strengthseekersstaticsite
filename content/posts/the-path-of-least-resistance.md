@@ -4,7 +4,7 @@ category: Blog
 date: 2020-02-02
 modified: 2020-02-02
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/733007059&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/733007059&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 
 When was the last time that anyone told you that you can be world class at something?And by something I mean something like, communication, project management, team management or training or relationship building. And I am sure that when you were told this, you were also told that if you work hard on fixing your weaknesses or areas of improvement you could become truly world class.  
 
